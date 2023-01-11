@@ -1,0 +1,25 @@
+* {
+  box-sizing:border-box;
+}
+body {
+  margin:0;
+  background-color: #ffffff;
+  color: #282828;
+  font-family: "HM Sans Regular";
+}
+.navbar {
+  border-bottom: 1px, #000000, solid;
+  width:80%;
+
+.navbar-left {
+  
+}
+.navbar-right {
+  
+}
+.navbar-mid {
+  
+}
+ul.navbar-list {
+  list-style:none;
+}
