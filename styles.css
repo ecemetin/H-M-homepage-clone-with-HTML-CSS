@@ -51,8 +51,11 @@ a.navbar-list-link {
   color:#FFF;
   font-size:1rem;
 }
-a {
+a{
   text-decoration:none;
+}
+a:visited {
+    color: inherit;
 }
 .navbar-mid {
     height: auto; 
@@ -61,9 +64,10 @@ a {
 .logo {
     height: auto; 
     width: auto; 
-    max-width: 120px; 
-    max-height: 120px;
-    padding-right: 10px;
+    max-width: 110px; 
+    max-height: 110px;
+    padding-right: 15px;
+  padding-left:15 px;
 }
 .fa-regular fa-user {
     height: auto; 
