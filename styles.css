@@ -51,6 +51,9 @@ a.navbar-list-link {
   color:#FFF;
   font-size:1rem;
 }
+a {
+  text-decoration:none;
+}
 .navbar-mid {
     height: auto; 
     width: auto; 
